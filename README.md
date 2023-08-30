@@ -31,4 +31,4 @@ be removed are:
 * libcxx=4.0.1
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FoundationsofCrystallography/student/HEAD?labpath=Chapter%201%20Problem%201.09%20Starter%20Program.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FrancisJulian/third-binder/HEAD)
